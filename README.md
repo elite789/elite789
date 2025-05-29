@@ -19,7 +19,7 @@ located in : Depok, West Java, Indonesia
 field of interest :
 [
 "Data Analysis",
-"Business Intellifence",
+"Business Intelligence",
 "Machine Learning",
 "Artificial Intelligence"
 ]
