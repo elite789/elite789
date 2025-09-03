@@ -38,21 +38,22 @@ about AI-driven innovation and problem-solving in dynamic environments
       <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-1024.png" width="45" height="45" />
       <!--Javascript-->
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />
+  
 <h3>Frameworks and Libraries</h3>
 <p align="left">
     <!-- OPEN CV --> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="45" height="45" />
     <!--Pandas-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="45" height="45 />      
-  
-<h3>Databases</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/>      
+
+<h3> Databases </h3>
 <p align="left">
       <!--MySQL-->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
-      
-          
-          
-  
+
+
+
+
 <h3>Tools</h3>
 <p align="left">
     <!-- VS CODE-->  
@@ -61,7 +62,6 @@ about AI-driven innovation and problem-solving in dynamic environments
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>
       <!-- Docker --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" height="45" />
-          
    <!-- Power BI -->  
 <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" width="45" height="45" />
 
